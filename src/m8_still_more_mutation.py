@@ -131,7 +131,7 @@ def MUTATE_delete_negatives(numbers):
     #             m6_mutation.run_test(...)
     #          Then, IMPLEMENT and test THIS FUNCTION
     #          (using the above code for testing).
-    #
+    # HINT: go from the end work towards the beginning, won't fuck up the list as bad.
     # HINT: This problem is MUCH harder than it would appear,
     #       for various quite-subtle reasons.
     #       Take a stab at this problem,
